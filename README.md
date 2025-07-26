@@ -40,7 +40,7 @@ GET http://localhost:8080/api/data
 
 **Response:**
 
-![Backend API Test via Postman](./public/postman-backend-test.png)
+![Backend API Test via Postman](FyndMe/assessment/public/postman-backend-test.png)
 
 ---
 
@@ -48,7 +48,7 @@ GET http://localhost:8080/api/data
 
 Here’s a snapshot of the completed frontend dashboard:
 
-![Frontend Dashboard Preview](./public/final-ui.png)
+![Frontend Dashboard Preview](FyndMe/assessment/public/final-ui.png)
 
 ---
 
